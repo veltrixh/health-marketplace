@@ -494,15 +494,13 @@ See [LICENSE](LICENSE) for the full text.
 **Harsit Kedia**
 *Builder · Blockchain Developer · Healthcare Innovator*
 
-[![GitHub](https://img.shields.io/badge/GitHub-@your--username-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Name-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-@veltrixh-181717?style=for-the-badge&logo=github)](https://github.com/veltrixh)
+[![Twitter](https://img.shields.io/badge/Twitter-@HarsitKedia18-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/HarsitKedia18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsit%20Kedia-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harsit-kedia)
 
-*Built with ❤️ at [Hackathon Name] · 2024*
 
 
 ---
-
 <div align="center">
 
 ### ⭐ Star this repo if you believe in decentralised healthcare!
